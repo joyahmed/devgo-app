@@ -30,9 +30,9 @@
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 
-Screenshots coming soon.
+![DevGo Screenshot](assets/screenshots/devgo-main.png)
 
 ---
 
