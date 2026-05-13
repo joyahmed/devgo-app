@@ -1,0 +1,42 @@
+# Build folders
+
+bin/
+obj/
+
+# Installer
+installer/output
+installer/output/*.exe
+
+# Visual Studio
+
+.vs/
+
+# Rider
+
+.idea/
+
+# VS Code
+
+.vscode/
+
+# User files
+
+*.user
+*.suo
+
+# Publish output
+publish/
+**/publish/*.exe
+
+# Runtime app data
+
+data/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
