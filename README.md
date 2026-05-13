@@ -32,7 +32,7 @@
 
 ## 🖼️ Screenshot
 
-![DevGo Screenshot](assets/screenshots/devgo-main.png)
+![DevGo Screenshot](assets/screenshots/devgo-main.jpg)
 
 ---
 
